@@ -1,7 +1,26 @@
 body {
-    background-color:rgb(252, 220, 228);
+    background-color:rgb(255, 238, 241);
+}
+h1 {
+    font-size: 50px;
 }
 h2 {
-    font-family:
+    font-family:Helvetica;
     display: inline;
+}
+li {
+    display: inline;
+    padding: 0px 10px 0px 10px;
+}
+header {
+    text-align: center;
+    background: url(images/pinkBackground.png); alt="3 dogs with pink background"
+    background-size: cover;
+    color: white;
+    font-family: aleo;
+  }
+img {
+    margin: 40px 0px 0px 0px;
+    border: 7px solid white;
+    border-radius: 20px;
 }
